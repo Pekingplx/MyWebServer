@@ -13,7 +13,6 @@
 - Linux
 - C++11
 - MySQL 5.7.31
-- jsoncpp 
 ## 目录树
 ```
 .
@@ -44,9 +43,16 @@
 ```
 git clone https://github.com/Pekingplx/MyWebServer.git
 ```
-安装依赖库
 
-> [jsoncpp安装](https://blog.csdn.net/qq_44299067/article/details/121929266)
+服务器测试环境
+
+Ubuntu版本16.04
+MySQL版本5.7.29
+浏览器测试环境
+
+Windows、Linux均可
+Chrome
+FireFox
 
 配置数据库
 
