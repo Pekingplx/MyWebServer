@@ -44,15 +44,14 @@
 git clone https://github.com/Pekingplx/MyWebServer.git
 ```
 
-服务器测试环境
+## 服务器测试环境
+-Ubuntu版本   16.04
+-MySQL版本    5.7.29
 
-Ubuntu版本16.04
-MySQL版本5.7.29
-浏览器测试环境
-
-Windows、Linux均可
-Chrome
-FireFox
+## 浏览器测试环境
+-Windows、Linux均可
+-Chrome
+-FireFox
 
 配置数据库
 
